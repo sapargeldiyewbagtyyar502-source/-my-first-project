@@ -1,0 +1,34 @@
+# Architecture Document - Lab 5
+
+## 1. Project Name
+My First Project - GitHub Repository
+
+## 2. Architecture Style
+Layered Architecture (3 layer)
+
+Layer 1: Presentation Layer
+- User (Student / Admin)
+- GitHub Web UI
+
+Layer 2: Logic Layer
+- Repository Management
+- Branch Management (main, dev)
+- Issue & Pull Request
+
+Layer 3: Data Layer
+- docs/requirements.md
+- docs/use-case.md
+- docs/diagrams/ (use-case.png, architecture.png)
+
+## 3. Components
+- GitHub: Version control, hosting
+- Markdown: Documentation
+- UML: Diagrams (Use-Case, Architecture)
+
+## 4. Data Flow
+User -> GitHub Web UI -> Repository Structure -> Git Branching -> Merge to main
+
+## 5. Deployment
+GitHub Pages / GitHub Repository
+
+Author: Bagtyyar - Lab 5

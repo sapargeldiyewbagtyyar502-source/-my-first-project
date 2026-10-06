@@ -1,0 +1,12 @@
+# Use-Case
+Акторлар:
+- Student (Студент)
+- Admin (Админ)
+
+Use-Case-тер:
+1. Login
+2. View Requirements
+3. Upload Diagrams
+4. Manage Repository
+
+Student тек ?арай алады, Admin барлы?ын бас?арады.
